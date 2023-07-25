@@ -1,11 +1,53 @@
 ---
-title: "ldliao.github.io"
+title: ""
+image: images/headshot_laurenliao.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=PaxXaf8AAAAJ&hl=en&oi=ao
+    - icon: github
+      text: GitHub
+      href: https://github.com/ldliao
+    - icon: envelope-fill
+      text: Email
+      href: mailto:ldliao@berkeley.edu
+tbl-colwidths: [20, 8, 70]
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+::: {style="font-size: 100%;"}
+I'm currently a **Biostatistics** PhD Candidate at **University of California, Berkeley.** My research focuses on improving causal design and analysis to address epidemiological problems. I have the privilege being co-advised by [Dr. Samuel D. Pimentel](#0) and [Dr. Alejandro Schuler](#0). \
+\
+Outside of work, I enjoy creating art, spending time with friends, and strumming on the ukulele.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+##### Recent news
 
-```{r}
-1 + 1
-```
+::: {style="font-size: 95%;"}
++------------:+---+:--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Aug. 2023   |   | I will be presenting a poster at Joint Statistical Meeting 2023 in Toronto and giving a talk at RAND Center for Causal Inference 2023 Symposium!\ |
+|             |   | \                                                                                                                                                 |
+|             |   | Thank you to [SFASA](http://sfasa.org/) for the Student Travel Award and making JSM travel possible!!                                             |
++-------------+---+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| June 2023   |   | My paper on [analyzing randomized trials with prognostic scores](https://arxiv.org/abs/2305.19180) is LIVE on arXiv now!                          |
++-------------+---+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| May 2023    |   | I am presenting a poster at American Causal Inference Conference (ACIC) in Austin.                                                                |
++-------------+---+---------------------------------------------------------------------------------------------------------------------------------------------------+
+
+---
+# this is a way to comment out old news!
+# June 2023
+# 
+# Grateful to have served The Biostatistics Graduate Student Association (BSGSA) community in 2022-2023.Congratulations to Sky Qiu as the new president!
+---
+:::
+
+::: {style="font-size: 70%;"}
+**About this website:** This website is built with [Quarto](https://quarto.org/), [Github Pages](https://pages.github.com/), and is inspired by Melody Y. Huang's [website](https://www.melodyyhuang.com/) and followed [Quarto tutorial](https://samanthacsik.github.io/) by Samantha Csik.
+:::
+:::
