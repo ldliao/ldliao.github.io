@@ -21,7 +21,7 @@ tbl-colwidths: [20, 8, 70]
 
 ::: {#hero-heading}
 ::: {style="font-size: 100%;"}
-I'm currently a **Biostatistics** PhD Candidate at **University of California, Berkeley.** My research focuses on improving causal design and analysis to address epidemiological problems. I have the privilege being co-advised by [Dr. Samuel D. Pimentel](#0) and [Dr. Alejandro Schuler](#0). \
+I'm currently a **Biostatistics** PhD Candidate at **University of California, Berkeley.** My research focuses on improving causal design and analysis to address epidemiological problems. I have the privilege being co-advised by [Dr. Samuel D. Pimentel](https://www.stat.berkeley.edu/~spi/) and [Dr. Alejandro Schuler](https://publichealth.berkeley.edu/people/alejandro-schuler/). \
 \
 Outside of work, I enjoy creating art, spending time with friends, and strumming on the ukulele.
 :::
