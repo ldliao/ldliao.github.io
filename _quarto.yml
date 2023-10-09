@@ -13,7 +13,7 @@ website:
       # - href: projects.qmd
       #   text: Projects
       - href: https://ldliao.shinyapps.io/jointVIP/
-        text: Projects
+        text: jointVIP application
       - href: cv/liao_cv_2023.pdf
         text: CV
   page-footer:
