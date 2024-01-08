@@ -29,18 +29,20 @@ Outside of work, I enjoy creating art, spending time with friends, and strumming
 ##### Recent news
 
 ::: {style="font-size: 95%;"}
-+-----------:+-------+:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sept. 2023 |       | My paper on investigating [Who is most at risk of dying if infected with SARS-CoV-2?](https://bmjopen.bmj.com/content/13/9/e072436.full) on BMJ Open is available online! |
-+------------+-------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Aug. 2023  |       | I will be presenting a poster at Joint Statistical Meeting 2023 in Toronto and giving a talk at RAND Center for Causal Inference 2023 Symposium!\                         |
-|            |       | \                                                                                                                                                                         |
-|            |       | Thank you to [SFASA](http://sfasa.org/) for the Student Travel Award and making JSM travel possible!!                                                                     |
-+------------+-------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| June 2023  |       | My paper on [analyzing randomized trials with prognostic scores](https://arxiv.org/abs/2305.19180) is LIVE on arXiv now!                                                  |
-+------------+-------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-----------:+-------+:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dec. 2023  |       | Come say hi at my poster presentation in [ICSDS](https://sites.google.com/view/icsds2023) for updated theory and results on [incorporating prognostic adjustment in efficient estimators for randomized trials with prognostic scores](https://arxiv.org/abs/2305.19180) |
++------------+-------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sept. 2023 |       | My paper on investigating [Who is most at risk of dying if infected with SARS-CoV-2?](https://bmjopen.bmj.com/content/13/9/e072436.full) on BMJ Open is available online!                                                                                                |
++------------+-------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Aug. 2023  |       | I will be presenting a poster at Joint Statistical Meeting 2023 in Toronto and giving a talk at RAND Center for Causal Inference 2023 Symposium!\                                                                                                                        |
+|            |       | \                                                                                                                                                                                                                                                                        |
+|            |       | Thank you to [SFASA](http://sfasa.org/) for the Student Travel Award and making JSM travel possible!!                                                                                                                                                                    |
++------------+-------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ---
 # this is a way to comment out old news!
+# June 2023
+# My paper on analyzing randomized trials with prognostic scores is LIVE on arXiv now!
 # June 2023
 # Grateful to have served The Biostatistics Graduate Student Association (BSGSA) community in 2022-2023.Congratulations to Sky Qiu as the new president!
 # May 2023
